@@ -9,4 +9,5 @@
 9. error. "let i = 0" locates inside the for loop, but line 11 is outside of the for loop. Since variables declared by let can only be acccessed within the block it is defined, i is not defined in line 11.
 10. 3
 11. [50, 100, 150]. In each loop of the for loop, discountedPrice is 50% off of the prices in this case. Since discountedPrice was pushed to discounted, it stores a list of 50% off prices. We can mutate lists declared by const.
-12. 
+12. alert( student.name );
+13. alert( student['Grade Year'] );
