@@ -32,7 +32,4 @@
 16. code
 17. [2,4,6]. After the function is called, it first created a new list. After that, the callback function is called for each element in the list from parameter, and then the result is pushed into the new list. At last, the new list is returned.
 18. code
-19. 1 
-    4  
-    3 
-    2
+19. 1<br />4<br />3<br />2  
